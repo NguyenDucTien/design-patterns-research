@@ -1,0 +1,5 @@
+D:\Subjects\Design Patterns\Practices\dofactory.com\AbstractFactory\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Subjects\Design Patterns\Practices\dofactory.com\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\Subjects\Design Patterns\Practices\dofactory.com\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\Subjects\Design Patterns\Practices\dofactory.com\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
+D:\Subjects\Design Patterns\Practices\dofactory.com\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb
