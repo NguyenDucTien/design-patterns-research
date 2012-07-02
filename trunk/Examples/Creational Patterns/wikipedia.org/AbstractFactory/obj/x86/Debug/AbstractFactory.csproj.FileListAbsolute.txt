@@ -1,0 +1,1 @@
+D:\Subjects\Design Patterns\Practices\wikipedia.org\AbstractFactory\bin\Debug\AbstractFactory.exe.config
