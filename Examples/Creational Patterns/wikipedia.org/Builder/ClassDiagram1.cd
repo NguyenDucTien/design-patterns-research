@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Builder.Cook">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAIACAAAAAAAAAAQA=</HashCode>
+      <FileName>Cook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.HawaiianPizzaBuilder">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAQAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HawaiianPizzaBuilder .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.Pizza">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Pizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.PizzaBuilder">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAQAAAAAIAAAAAAAEABAAAAAQA=</HashCode>
+      <FileName>PizzaBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.Program">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.SpicyPizzaBuilder">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAQAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SpicyPizzaBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
