@@ -1,0 +1,5 @@
+D:\Subjects\Design Patterns\Examples\Creational Patterns\wikipedia.org\Builder\bin\Debug\Builder.exe
+D:\Subjects\Design Patterns\Examples\Creational Patterns\wikipedia.org\Builder\bin\Debug\Builder.pdb
+D:\Subjects\Design Patterns\Examples\Creational Patterns\wikipedia.org\Builder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Subjects\Design Patterns\Examples\Creational Patterns\wikipedia.org\Builder\obj\x86\Debug\Builder.exe
+D:\Subjects\Design Patterns\Examples\Creational Patterns\wikipedia.org\Builder\obj\x86\Debug\Builder.pdb
