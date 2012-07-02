@@ -1,0 +1,5 @@
+D:\Vo Tan Duc\software design patterns\Patterns\Creational Patterns\Builder\BuilderDemo\BuilderDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\Vo Tan Duc\software design patterns\Patterns\Creational Patterns\Builder\BuilderDemo\BuilderDemo\bin\Debug\BuilderDemo.exe
+D:\Vo Tan Duc\software design patterns\Patterns\Creational Patterns\Builder\BuilderDemo\BuilderDemo\bin\Debug\BuilderDemo.pdb
+D:\Vo Tan Duc\software design patterns\Patterns\Creational Patterns\Builder\BuilderDemo\BuilderDemo\obj\Debug\BuilderDemo.exe
+D:\Vo Tan Duc\software design patterns\Patterns\Creational Patterns\Builder\BuilderDemo\BuilderDemo\obj\Debug\BuilderDemo.pdb
